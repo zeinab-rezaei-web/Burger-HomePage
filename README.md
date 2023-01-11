@@ -5,12 +5,12 @@
 
 - [Demo Project](https://zeinab-rezaei-web.github.io/Burger-HomePage)
 
-- 👩 Developed by Zeinab Rezaei
+- 👩 Developed by Me: Zeinab Rezaei
 
 - ⏲ Created: 2023-01-06
 
-- 💻 Technologies Used:Html , css 
+- 💻 Technologies Used: Html , css 
 
-- 😎 Role - Frontend
+- 😎 Role : Frontend Developer
 
 - 🔗 How to reach me : with my [instagram](https://www.instagram.com/zeinab.rezaei.web) and [linkedin](https://www.linkedin.com/in/zeinab-rezaei-web)
